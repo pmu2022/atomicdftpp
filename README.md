@@ -1,0 +1,2 @@
+# atomicdftpp
+Solving atomic DFT
